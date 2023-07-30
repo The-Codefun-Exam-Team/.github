@@ -4,7 +4,7 @@
 
 We are currently working on Codefun Debug, a website that utilizes submission data from Natsu Kagami's Codefun OJ to generate code-debugging problems. See it live at https://debug.codefun.vn.
 
-The project's Docker images are minhnhatnoe/codefun-debug-backend, minhnhatnoe/codefun-debug-frontend, minhnhatnoe/codefun-debug-proxy on Docker Hub. Documentations for these images are underway.
+The project's Docker images are available on each component's respective repository. The Deployment repository contains a docker-compose.yml file that connects everything together. Documentations for these images are underway.
 
 ## About us
 
